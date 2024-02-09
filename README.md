@@ -1,7 +1,8 @@
-### Hi there 👋😃 My name is Nicolas
+### Hi there! 👋😃 My name is Nicolas
 
 - 🧠 Technician of System Development
-- 🔭 I’m searching job as System Developer
-- 🌱 I’m currently learning Java and some frameworks in a bootcamp.
-- 👯 I’m looking to collaborate on areas of Systems Developer. My knowlodge: HTML, CSS, JS, Python, PHP, Java, MySQL, Arduino.
-- 📫 How to reach me on LinkedIn: http://www.linkedin.com/in/nicolas-langhi
+- 👨‍💻 Management Information Systems (MIS) Analyst using SQL Server and Python.
+- 🔍 Actively seeking new opportunities in the development field, with a focus on Python and Java.
+- 👯 Open to collaborating on projects related to Systems Development.
+- 🚀 Eagerly pursuing opportunities for growth and professional development.
+- 📫 You can reach me on LinkedIn: [Nicolas Langhi](https://www.linkedin.com/in/nicolas-langhi/)
