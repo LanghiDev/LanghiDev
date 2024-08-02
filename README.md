@@ -1,5 +1,5 @@
 # 🎯 About Me:
-- 🐍 Python Developer at [CTF Software](https://github.com/devcotefacil). Also contributing as [langhiCTF](https://github.com/langhiCTF) on GitHub.
+- 🐍 Python Developer at [CTF Software](https://github.com/devcotefacil), contributing as [langhiCTF](https://github.com/langhiCTF) on GitHub.
 - 👯 I'm looking to collaborate on Python projects.
 - 🤝 I'm looking for help with Terraform and Docker.
 - 💬 Ask me about Python, Scrapy Framework, Github actions, AWS.
